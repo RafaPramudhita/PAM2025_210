@@ -31,9 +31,3 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
 - Android Studio (Versi Ladybug atau terbaru)
 - JDK 17 atau lebih tinggi
 - Gradle terbaru (sudah termasuk dalam wrapper)
-
-## 🛠️ Cara Instalasi & Menjalankan
-
-1. **Clone repositori ini:**
-   ```bash
-   git clone [https://github.com/username/RentalinAja.git](https://github.com/username/RentalinAja.git)
